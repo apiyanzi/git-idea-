@@ -10,6 +10,9 @@ public class GitHello {
         System.out.println("v4,hot-fix");
         System.out.println("v4,hot-fix");
         System.out.println("master,update");
+        System.out.println("master,update");
+        System.out.println("github,update");
+        System.out.println("master,update");
 
     }
 }
