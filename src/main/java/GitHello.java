@@ -13,6 +13,7 @@ public class GitHello {
         System.out.println("master,update");
         System.out.println("github,update");
         System.out.println("master,update");
+        System.out.println("pull");
 
     }
 }
