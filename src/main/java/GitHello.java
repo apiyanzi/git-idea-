@@ -9,5 +9,6 @@ public class GitHello {
         System.out.println("v2");
         System.out.println("v4,hot-fix");
         System.out.println("v4,hot-fix");
+        System.out.println("master,update");
     }
 }
